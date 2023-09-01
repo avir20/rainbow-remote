@@ -1,2 +1,3 @@
 Red is the first colorof the rainbow
 Orange is the second oclor
+Yellow is the third color
